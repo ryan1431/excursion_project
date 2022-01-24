@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.downloadLink {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+a:link, a:visited {
+    color: aquamarine;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+
+
+footer p {
+    text-align: right;
+}
